@@ -1,0 +1,14 @@
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\bin\Debug\ManagerCG.exe.config
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\bin\Debug\ManagerCG.exe
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\bin\Debug\ManagerCG.pdb
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.csprojResolveAssemblyReference.cache
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.MainForm.resources
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.csproj.GenerateResource.Cache
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.exe
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.pdb
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.Settings.resources
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.Properties.Resources.resources
+C:\Users\hernani\Documents\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.DatosFile.resources
+D:\Usuarios\Hernani\Storage\Documentos\SharpDevelop Projects\ManagerCG\ManagerCG\bin\Debug\ManagerCG.exe.config
+D:\Usuarios\Hernani\Storage\Documentos\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.exe
+D:\Usuarios\Hernani\Storage\Documentos\SharpDevelop Projects\ManagerCG\ManagerCG\obj\Debug\ManagerCG.pdb
